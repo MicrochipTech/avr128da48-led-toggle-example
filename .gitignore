@@ -1,2 +1,3 @@
-/.vs
-/LED_TOGGLE/Debug
+*/.vs
+*/LED_TOGGLE/Debug/
+*/LED_TOGGLE/Release/
